@@ -1,7 +1,7 @@
 <?php
     session_start();
 
-    setcookie('pseudo','abdel', time() + (30 * 24 * 3600));
+    setcookie('pseudo','abdel', time() + (31 * 24 * 3600));
 
     echo " id : " . $_COOKIE['id'];
 
