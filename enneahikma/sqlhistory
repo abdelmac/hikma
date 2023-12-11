@@ -1,0 +1,4 @@
+INSERT INTO `users`( `pseudo`, `email`, `password`) VALUES ('[value-2]','[value-3]','[value-4]',)
+
+
+
