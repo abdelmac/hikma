@@ -52,6 +52,10 @@ body {
 
 }
 
+.logotitre img{
+    width: 100px;
+  }
+
 
 .nav {
     display: flex;

@@ -5,6 +5,10 @@
     font-family: 'Kumbh Sans', sans-serif;
     scroll-behavior: smooth;
   }
+
+  #logotitre .img{
+    width: 100px;
+  }
   
   .navbar {
     background: #131313;
