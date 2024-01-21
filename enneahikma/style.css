@@ -109,12 +109,11 @@ body {
  display: inline-flex;
  justify-content: center;
  align-items: center;
- box-shadow: 0px 0px 10px 0px #2D2D2D;
 }
 
 .nav-item a:hover {
     color: #0e1425;
-    background-color: #f2f2f2;
+    box-shadow: 0px 0px 10px 0px #2D2D2D;
 }
 
 .nav-item a:active {
