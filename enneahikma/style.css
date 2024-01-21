@@ -30,7 +30,7 @@ body {
 .logotitre {
     display: flex;
     align-items: center;
-    margin-left: 3%;
+    margin-left: 0;
 }
 
 .logotitre a {
