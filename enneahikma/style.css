@@ -26,6 +26,10 @@ body {
     width: 100%;
     z-index: 2000; /* Assurez-vous que z-index est suffisamment élevé */
 }
+.nav-search{
+  margin: 10px;
+  ;
+}
 
 .logotitre {
     display: flex;
