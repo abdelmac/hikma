@@ -242,3 +242,7 @@ label #cancel{
     visibility: visible;
   }
 }
+
+#text1{
+    margin-left: 20%;
+}
