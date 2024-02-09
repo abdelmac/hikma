@@ -15,7 +15,7 @@ body {
     color: #fff;
     position: relative;
     transition: top 10s;
-    height: 70px;
+    height: 80px;
     z-index: 2000; /* Assurez-vous que z-index est suffisamment élevé */
 }
 
