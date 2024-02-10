@@ -7,17 +7,8 @@ import HomeNavigation from './App/Navigations/HomeNavigation';
 export default function App() {
 
     <View style={styles.container}>
-      <AuthContext.Provider 
-      value={{userData,setUserData}}>
-      {userData?<Home/>:<Login/>}
-      {userData?
-      <NavigationContainer>
-          <HomeNavigation/>
-      </NavigationContainer>
-      :<Login/>}
-      
-      </AuthContext.Provider>
-   
+
+      <Login/>
       
     </View>
   );
