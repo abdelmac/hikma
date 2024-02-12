@@ -269,11 +269,15 @@ h1 {
 }
 #grid-item {
   width: 250px;
-  height: 200px;
+  height: 300px;
+  margin-bottom: 60px;
 
-  background: #333;
 }
 
 #grid-item img{
-  width: 200px;
+  width: 250px;
+}
+
+#grid-item p{
+  margin-top: -20px;
 }
