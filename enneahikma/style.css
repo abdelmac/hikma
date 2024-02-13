@@ -147,6 +147,7 @@ body {
   height: 100%;
   background: #1e1e1e;
   transition: all .5s ease;
+  z-index:100;
 }
 .sidebar header{
   font-size: 28px;
