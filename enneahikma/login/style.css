@@ -286,8 +286,8 @@ label #cancel{
 }
 
 .container button{
-  background: linear-gradient(90deg,rgba(144,35,64,1) 35%, rgba(14,20,37,1) 100%);
-    background-color: linear-gradient(rgba(144,35,64,1) 35%, rgba(14,20,37,1) 100%);
+  background: linear-gradient(90deg,rgba(144,35,64,1) 10%, rgba(14,20,37,1) 100%);
+    background-color: linear-gradient(rgba(144,35,64,1) 10%, rgba(14,20,37,1) 100%);
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -401,9 +401,9 @@ label #cancel{
 }
 
 .toggle{
-    background-color: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(144,35,64,1) 35%, rgba(14,20,37,1) 100%);
+    background-color: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(144,35,64,1) 10%, rgba(14,20,37,1) 100%);
     height: 100%;
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(144,35,64,1) 35%, rgba(14,20,37,1) 100%);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(144,35,64,1) 10%, rgba(14,20,37,1) 100%);
     color: #fff;
     position: relative;
     left: -100%;
